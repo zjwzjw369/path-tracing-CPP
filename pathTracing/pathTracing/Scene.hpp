@@ -10,8 +10,12 @@ struct Scene
 Result Scene::intersect(Ray ray) {
 	double minDis = INF;
 	Result minResult;
-	for (auto it = sphere.begin(); it != sphere.end(); ++it) {
+	//3775//2335
+	//0.036
+	for (std::vector<Sphere>::iterator it = sphere.begin(), end = sphere.end(); it != end; ++it) {
+		
 		Result result = it->intersect(ray);
+		if (result.isEmpty)	continue;
 		if (result.distance<minDis) {
 			minDis = result.distance;
 			minResult = result;

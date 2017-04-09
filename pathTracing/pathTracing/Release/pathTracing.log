@@ -1,0 +1,9 @@
+﻿  main.cpp
+c:\users\administrator\documents\visual studio 2015\projects\pathtracing\pathtracing\imageio.hpp(7): warning C4018: '<': signed/unsigned mismatch
+  Generating code
+  23 of 206 functions (11.2%) were compiled, the rest were copied from previous compilation.
+    0 functions were new in current compilation
+    3 functions had inline decision re-evaluated but remain unchanged
+  Finished generating code
+  pathTracing.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\pathTracing\Release\pathTracing.exe
+  pathTracing.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\pathTracing\Release\pathTracing.pdb (Full PDB)

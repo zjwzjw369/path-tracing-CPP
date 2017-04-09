@@ -1,6 +1,6 @@
 ﻿  main.cpp
 c:\users\administrator\documents\visual studio 2015\projects\pathtracing\pathtracing\imageio.hpp(7): warning C4018: '<': signed/unsigned mismatch
-c:\users\administrator\documents\visual studio 2015\projects\pathtracing\pathtracing\sphere.hpp(27): warning C4244: 'argument': conversion from 'double' to 'const int', possible loss of data
-c:\users\administrator\documents\visual studio 2015\projects\pathtracing\pathtracing\main.cpp(6): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\pathtracing\pathtracing\main.cpp(7): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
+c:\users\administrator\documents\visual studio 2015\projects\pathtracing\pathtracing\main.cpp(8): warning C4244: 'argument': conversion from 'double' to 'int', possible loss of data
   pathTracing.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\pathTracing\Debug\pathTracing.exe
   pathTracing.vcxproj -> C:\Users\Administrator\documents\visual studio 2015\Projects\pathTracing\Debug\pathTracing.pdb (Partial PDB)
